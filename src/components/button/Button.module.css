@@ -1,0 +1,16 @@
+.button {
+    font-size: 25px;
+    padding: 0 15px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #282c34;
+}
+.disabled {
+    border-color: #80da9b;
+}
+.activ {
+    background-color: #80da9b;
+    border: none;
+
+}

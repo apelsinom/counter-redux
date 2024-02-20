@@ -1,0 +1,22 @@
+.text {
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkseagreen;
+}
+.input {
+    display: block;
+    width: 50px;
+    border: 2px solid darkseagreen;
+    text-align: center;
+    border-radius: 5px;
+}
+.textInputBlock {
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+}
+.errorInputClass {
+    background-color: #f5a4a4;
+    border: 2px solid darkred;
+}

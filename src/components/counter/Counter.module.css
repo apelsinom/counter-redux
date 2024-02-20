@@ -1,0 +1,16 @@
+.sizeNumber {
+    padding: 0;
+    margin: 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+.errorText {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.textValue {
+    font-weight: bold;
+    font-size: 20px;
+    color: darkseagreen;
+}
